@@ -31,7 +31,7 @@
     <script>
         const yesButton = document.getElementById('yesButton');
         const noButton = document.getElementById('noButton');
-        const catGifUrl = 'https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif';
+        const catGifUrl = 'https://giphy.com/gifs/STRAPPEDENT-dancing-vibing-to-music-rBszdmXbzglQUX7N4j;
 
         const noButtonTexts = [
             'Adichi saavedichiruve',
